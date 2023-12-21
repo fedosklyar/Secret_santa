@@ -330,11 +330,7 @@ input[type=text]:focus, input[type=email]:focus {
     top: 280px;
     left: -20px;
     transform: rotate(15deg);
-    transition: all 0.2s;
-}
-
-.icon:hover {
-    transform: rotate(-15deg);
+    
 }
 
 .footer {
